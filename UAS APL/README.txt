@@ -1,0 +1,6 @@
+nama saya Muhammad Aulia Rizki dengan nim 1908107010033 dari kelas APL A
+
+jadi saya akan menjelaskan tentang studi kasus dan pattern yang saya ambil. jadi pada tugas UAS Praktikum ini pattern yang saya ambil yaitu strategy pattern dan adapter pattern. hal ini dikarenakan nim saya ganjil (33) dan sesuai perintah pada tugas maka saya menggabungkan kedua pattern tersebut. Studi kasus yang saya kerjakan kali ini adalah mengenai salah satu game online yang sempat viral pada tahun 2020 yang lalu yaitu Among Us yang mana pada game ini terdapat dua jenis karakter yaitu crew dan impostor dikarenakan nama panggilan saya dimulai dari huruf "A".
+
+pada studi kasus ini saya membuat program menggunakan strategy dan adapter pattern dimana ketika Main.java dijalankan maka akan muncul pilihan dimana user harus memilih antara 3 karakter among us yaitu merah, kuning, dan pink dengan menginput angka sesuai dengan karakter yang ingin dipilih. setelah karakter dipilih maka pilihan yang dipilih oleh user akan ditampilkan yang mana status karakter yang dipilih oleh user saat ini adalah sebagai crew. penjelasan tadi merupakan implementasi dari strategy pattern.
+setelah pilihan ditampilkan, maka status karakter yang sebelumnya merupakan seorang crew akan diubah menjadi impostor, yang mana ini merupakan implementasi dari adapter pattern.
